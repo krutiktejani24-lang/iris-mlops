@@ -2,5 +2,5 @@ venv/
 __pycache__/
 *.pyc
 mlruns/
-model.pkl
 mlflow.db
+model.pkl
